@@ -1,9 +1,8 @@
-
 @import url("https://fonts.googleapis.com/css?family=Rubik:500,700|Roboto:400,600");
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@700&display=swap');
 @font-face {
-    font-family: "Calling Heart";
-    src: url("./fonts/Unigeo-Medium.ttf");
+    font-family: "Quantify";
+    src: url("./fonts/Quantify.ttf");
 }
 
 body {
@@ -25,7 +24,7 @@ body {
 }
 
 .logo {
-	font-family: 'Calling Heart', sans-serif;
+	font-family: 'Quantify', sans-serif;
 	font-weight: 500;
 	font-size: 5rem;
 }
@@ -165,7 +164,7 @@ nav {
 .cta-text {
 	font-weight: bold;
 	font-size: 3rem;
-	color: #fff;
+	color: #2e2e2e;
 }
 
 /* Footer */
@@ -174,7 +173,7 @@ nav {
 }
 .footer-icon {
 	font-size: 2rem;
-	color: #00D8C9;
+	color: #80b9af;
 	padding: 5% 3%;
 }
 
