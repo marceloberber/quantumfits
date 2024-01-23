@@ -1,2 +1,2 @@
-# Landing page quantumFits
+# Landing page QuantumFits
 Landing page startup one
