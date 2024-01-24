@@ -26,7 +26,13 @@ body {
 .logo {
 	font-family: 'Quantify', sans-serif;
 	font-weight: 500;
-	font-size: 5rem;
+	font-size: 4.5rem;
+}
+
+.about{
+    width: 40%;
+    margin: auto;
+    padding: 20px;
 }
 
 /*----------------------------------------*/
@@ -199,7 +205,7 @@ nav {
 }
 
 a {
-	color: #00c0b3;
+	color: #80c7ba;
 }
 
 a:hover{
