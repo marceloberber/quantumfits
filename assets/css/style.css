@@ -164,7 +164,7 @@ nav {
 
 /* Call To Action */
 #cta {
-	background-color: #C4E8DD;
+	background: linear-gradient(145deg, #F4DACA, #C1E9DE);
 	padding: 7% 15%;
 }
 .cta-text {
